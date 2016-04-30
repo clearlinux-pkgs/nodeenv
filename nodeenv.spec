@@ -4,7 +4,7 @@
 #
 Name     : nodeenv
 Version  : 0.13.6
-Release  : 18
+Release  : 19
 URL      : https://pypi.python.org/packages/source/n/nodeenv/nodeenv-0.13.6.tar.gz
 Source0  : https://pypi.python.org/packages/source/n/nodeenv/nodeenv-0.13.6.tar.gz
 Summary  : Node.js virtual environment builder
