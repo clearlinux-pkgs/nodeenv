@@ -1,5 +1,5 @@
 PKG_NAME := nodeenv
-URL := https://pypi.python.org/packages/source/n/nodeenv/nodeenv-0.13.6.tar.gz
+URL := http://pypi.debian.net/nodeenv/nodeenv-1.0.0.tar.gz
 ARCHIVES :=
 
 include ../common/Makefile.common
