@@ -4,7 +4,7 @@
 #
 Name     : nodeenv
 Version  : 1.1.2
-Release  : 23
+Release  : 24
 URL      : http://pypi.debian.net/nodeenv/nodeenv-1.1.2.tar.gz
 Source0  : http://pypi.debian.net/nodeenv/nodeenv-1.1.2.tar.gz
 Summary  : Node.js virtual environment builder
