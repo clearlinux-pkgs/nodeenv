@@ -4,7 +4,7 @@
 #
 Name     : nodeenv
 Version  : 1.6.0
-Release  : 33
+Release  : 34
 URL      : https://files.pythonhosted.org/packages/75/8d/14c4ac588711f8de0dd02a11460ed72f48cab65a998994ca20f40c6e1a8f/nodeenv-1.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/75/8d/14c4ac588711f8de0dd02a11460ed72f48cab65a998994ca20f40c6e1a8f/nodeenv-1.6.0.tar.gz
 Summary  : Node.js virtual environment builder
